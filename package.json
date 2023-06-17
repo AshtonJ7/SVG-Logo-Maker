@@ -1,0 +1,30 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "Application that takes in user input to generate a logo and save it as an SVG fileLinks to an external site..",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshtonJ7/SVG-Logo-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshtonJ7/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/AshtonJ7/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
