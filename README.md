@@ -1,5 +1,5 @@
 # SVG-Logo-Maker
-Application that takes in user input to generate a logo and save it as an SVG fileLinks to an external site.. 
+This is an Application that takes in user inputed data to generate a logo and save it as an SVG image to an external site.
 
 ## User Story
 
