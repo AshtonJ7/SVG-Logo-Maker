@@ -39,6 +39,9 @@ To run tests, run the following command
 ```bash
   npm run test
 ```
+## SVG Sample image 
+
+![logo](https://github.com/AshtonJ7/SVG-Logo-Maker/assets/62944042/209b5665-90dc-4a7c-9823-1ed3e2f8074f)
 
 ## Demonstration Video
 
