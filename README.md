@@ -25,3 +25,26 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+## Tech
+
+- Javascript 
+- NODE.JS
+- NPM JEST
+- NPM inquirer
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
+## Demonstration Video
+
+[screen-recorder.webm](https://github.com/AshtonJ7/SVG-Logo-Maker/assets/62944042/3f2786a2-308c-4c96-91ec-1fea9057ecdf)
+
+## Screenshot
+
+![image](https://github.com/AshtonJ7/SVG-Logo-Maker/assets/62944042/18d77ef7-e701-40b6-b7de-09eaafc21175)
+
